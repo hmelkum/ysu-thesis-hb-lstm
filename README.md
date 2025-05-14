@@ -1,4 +1,4 @@
-# ysu-thesis-hb-lstm
+# Hierarchical Bayesian LSTM
 
 ```python
 from google.colab import drive
@@ -10,5 +10,5 @@ drive.mount('/gdrive')
 ```
 
 ```sh
-%pip install -q -r /path/to/requirements.txt
+%pip install -q -r requirements.txt
 ```
